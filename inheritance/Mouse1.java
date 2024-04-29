@@ -10,4 +10,4 @@ package inheritance;
     public static void setColor(String color) {
         System.out.println(color);
     }
-}
+} 
