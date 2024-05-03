@@ -1,3 +1,5 @@
+package practice_files.Java_101;
+
 import java.util.Scanner;
 /*
  * Description: Printing input entered by the user in a java program

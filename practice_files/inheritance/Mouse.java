@@ -1,4 +1,4 @@
-package inheritance;
+package practice_files.inheritance;
 
 public class Mouse {
     public static void leftClick() {

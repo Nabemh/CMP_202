@@ -1,4 +1,4 @@
-package inheritance;
+package practice_files.inheritance;
 /* 
  * Description: Inheritance practice using an analogy of a mouse company
  */

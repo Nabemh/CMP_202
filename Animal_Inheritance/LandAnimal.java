@@ -1,4 +1,4 @@
-package INHERITANCE;
+package Animal_Inheritance;
 
 public class LandAnimal extends Animal {
         @Override

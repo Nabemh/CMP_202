@@ -1,4 +1,4 @@
-package Encapsulation;
+package practice_files.Encapsulation;
 
 public class Main {
     

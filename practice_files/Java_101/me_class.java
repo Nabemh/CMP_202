@@ -1,3 +1,5 @@
+package practice_files.Java_101;
+
 /*
  * Me.sayName - prints out the name of user
  * Me.sayAge - prints out the age of user
