@@ -11,8 +11,12 @@ public class ArrayDemo {
         numbersArray[3] = 77;
         numbersArray[4] = 47;
 
-        for (int i=0; i==numbersArray.length; i++) {
+        for (int i = 0; i < numbersArray.length-1; i--) {
             System.out.println(numbersArray[i]);
+            //if(numbersArray[i] == 54){
+              //  System.out.println("Found "+ numbersArray[i]);
+                //break;
+            //}
         }
     
     }
