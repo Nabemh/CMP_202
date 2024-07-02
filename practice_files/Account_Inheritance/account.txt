@@ -1,0 +1,16 @@
+General Accounts should have;
+    - Withdraw
+    - Deposit
+    - Login
+
+Account types;
+    - Savings
+    - Current
+    - Student
+
+Variables;
+    - Balance
+    - amount
+    - User_name
+    - Password
+    - 
